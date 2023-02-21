@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Cookie&family=Roboto:wght@400;700&display=swap');
 
 body{
-    background: #939A8D;
+    background-image: url('background.JPG');
     color: rgba(255,255,255,1);; 
     font-family: Roboto;
 }
@@ -22,7 +22,7 @@ body{
     font-size: 70px;
 }
 span{
-    color: #0E1F0F;
+    color: rgb(187, 189, 186);
 }
 .bt{
     justify-content: flex-end;

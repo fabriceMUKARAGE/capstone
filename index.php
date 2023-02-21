@@ -37,9 +37,9 @@
     <div class="displaying">
         <div class="txt">
             <p><span>Connecting Recruiters <br>and Students/Graduates</span></p>
-            <a class="bt"  href=""><button style="background-color: #223714; color:white; border-radius:14px;" type="submit" id='connect'>Admin Login</button></a>
-            <a class="bt"  href=""><button style="background-color: #326F09; color:white; border-radius:14px;" type="submit" id='connect'>Student Login</button></a>
-            <a class="bt" href=""><button style="background-color: #326F09; color:white; border-radius:14px;" type="submit" id='connect'>Recruiter Login</button></a>
+            <a class="bt"  href="./admin/login/login.php"><button style="background-color: #3c3c3c; color: white; padding: 5px 10px; border-radius: 5px;" type="submit" id='connect'>Admin Login</button></a>
+            <a class="bt"  href="./student/login/login.php"><button style="background-color: #3c3c3c; color: white; padding: 5px 10px; border-radius: 5px;" type="submit" id='connect'>Student Login</button></a>
+            <a class="bt" href="./recruiter/register/register.php"><button style="background-color: #3c3c3c; color: white; padding: 5px 10px; border-radius: 5px;" type="submit" id='connect'>Recruiter Login</button></a>
         </div>
     </div>
 </body>
